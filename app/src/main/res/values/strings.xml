@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Vera</string>
+    <string-array name="pelanggaran">
+        <item>PSAS</item>
+        <item>SARA</item>
+        <item>Merokok</item>
+        <item>Membuat Kegaduhan</item>
+        <item>Tidak Menjaga Sopan Santun</item>
+    </string-array>
 </resources>
